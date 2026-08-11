@@ -1,1 +1,1 @@
-
+Completing this lab activity provided practical insight into the Linux CLI environment hosted on KillerCoda. Building user privileges and system querying skills are fundamental steps for any cloud engineer. Managing my repository on GitHub ensures proper version control and professional documentation habits going forward.
