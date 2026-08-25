@@ -14,23 +14,26 @@
 * **Google Cloud Platform:** [Google Cloud Documentation](https://cloud.google.com/docs)
 
 ## Tools and Assistance
-* **AWS:** Offers [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) for real-time guidance to provision resources efficiently, and [AWS CloudFormation](https://aws.amazon.com/cloudformation/) for infrastructure as code.
-* **Microsoft Azure:** Features [Azure Advisor](https://azure.microsoft.com/en-us/services/advisor/) for personalized best practices and [Azure Resource Manager (ARM)](https://azure.microsoft.com/en-us/features/resource-manager/) for deployment.
-* **Google Cloud Platform:** Utilizes [Active Assist](https://cloud.google.com/active-assist) (AI-driven recommendations) and [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager).
-* **AI Assistance:** Utilized [Google Gemini](https://gemini.google.com/) for paraphrasing and refining technical explanations to ensure clarity and professionalism.
+* **AWS Provider Tools:** Offers [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) for real-time guidance and [AWS CloudFormation](https://aws.amazon.com/cloudformation/) for infrastructure as code.
+* **Azure Provider Tools:** Features [Azure Advisor](https://azure.microsoft.com/en-us/services/advisor/) for personalized best practices and [Azure Resource Manager (ARM)](https://azure.microsoft.com/en-us/features/resource-manager/) for deployment.
+* **GCP Provider Tools:** Utilizes [Active Assist](https://cloud.google.com/active-assist) (AI-driven recommendations) and [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager).
+* **Laboratory Tools Used:** 
+    * **KillerCoda Playground:** Used as the simulated Linux cloud environment to execute commands and gather infrastructure data[span_0](start_span)[span_0](end_span).
+    * **GitHub:** Used for version control and hosting this technical documentation portfolio[span_1](start_span)[span_1](end_span).
+    * **Google Gemini:** Utilized for paraphrasing and refining technical explanations to ensure clarity and professionalism[span_2](start_span)[span_2](end_span).
 
 ## Guide Questions
 **1. Which provider offers the broadest range of services?**
-AWS offers the broadest range of services as they were the earliest major public cloud pioneer[span_0](start_span)[span_0](end_span).
+AWS offers the broadest range of services as they were the earliest major public cloud pioneer.
 
 **2. Which platform is recommended for Microsoft products?**
-Azure is highly recommended because of native integrations with Windows Server and Active Directory[span_1](start_span)[span_1](end_span).
+Azure is highly recommended because of native integrations with Windows Server and Active Directory.
 
 **3. Which platform is recognized for AI, ML, and Kubernetes?**
-GCP is widely recognized as the leader in Kubernetes and AI/ML data pipelines[span_2](start_span)[span_2](end_span).
+GCP is widely recognized as the leader in Kubernetes and AI/ML data pipelines.
 
 **4. What similarities did you observe?**
-All three operate on a pay-as-you-go model and offer identical foundational pillars: Compute, Storage, Networking, and Identity[span_3](start_span)[span_3](end_span).
+All three operate on a pay-as-you-go model and offer identical foundational pillars: Compute, Storage, Networking, and Identity.
 
 ## Conclusion
 Selecting the right cloud provider depends entirely on the organization's existing IT ecosystem and specific workload requirements. AWS remains the most versatile for broad service needs, Azure is the most efficient choice for enterprises already utilizing Microsoft architecture, and GCP dominates in AI, machine learning, and high-performance data processing.
@@ -40,3 +43,5 @@ Selecting the right cloud provider depends entirely on the organization's existi
 * Microsoft. (2024). *Azure Documentation*. https://learn.microsoft.com/en-us/azure/
 * Google. (2024). *Google Cloud Documentation*. https://cloud.google.com/docs
 * Google. (2024). *Gemini*. https://gemini.google.com/
+* KillerCoda. (2024). *Interactive Learning Environment*. https://killercoda.com/
+* GitHub. (2024). *Version Control Platform*. https://github.com/
