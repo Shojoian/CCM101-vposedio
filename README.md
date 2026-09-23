@@ -21,7 +21,7 @@ This section tracks the completion status of all assigned laboratory missions th
 | **Lab Activity 1:** Welcome to the Cloud | ✅ **Finished** | Introduction to GitHub, Markdown, and repository management. |
 | **Lab Activity 2:** Build the Cloud Infrastructure Blueprint | ✅ **Finished** | Linux hardware investigation and cloud architecture diagramming. |
 | **Lab Activity 3:** Multi-Cloud Explorer | ✅ **Finished** | Comprehensive evaluation and comparison of AWS, Microsoft Azure, and GCP. |
-| **Lab Activity 4:** *Pending Assignment* | ⏳ **Not Yet Started** | Upcoming cloud module. |
+| **Lab Activity 4:** *The Cloud-Native Engineer* | ✅ **Finished** | Architectural Differentiation. |
 | **Lab Activity 5:** *Pending Assignment* | ⏳ **Not Yet Started** | Upcoming cloud module. |
 
 ---
