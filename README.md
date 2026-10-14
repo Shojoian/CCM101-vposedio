@@ -23,7 +23,7 @@ This section tracks the completion status of all assigned laboratory missions th
 | **Lab Activity 3:** Multi-Cloud Explorer | ✅ **Finished** | Comprehensive evaluation and comparison of AWS, Microsoft Azure, and GCP. |
 | **Lab Activity 4:** The Cloud-Native Engineer | ✅ **Finished** | Architectural Differentiation. |
 | **Lab Activity 5:** The Cloud Data Engineer | ✅ **Finished** | CloudNova Technologie. |
-| **Lab Activity 6:** *Pending Assignment* | ⏳ **Not Yet Started** | Upcoming cloud module. |
+| **Lab Activity 6:** *The Cloud Deployment Engineer | ✅ **Finished** | Placeholder. |
 | **Lab Activity 7:** *Pending Assignment* | ⏳ **Not Yet Started** | Upcoming cloud module. |
 
 ---
