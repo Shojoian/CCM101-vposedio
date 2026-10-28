@@ -1,3 +1,15 @@
 # 📦 Automated Backup Script & Crontab Guide
-* **Script Permission:** `chmod +x backup.sh` grants execution rights to the file.
-* **Cron Schedule:** `0 2 * * * /root/backup.sh` runs the script every night at exactly 2:00 AM.
+
+## 💻 Full Code of `backup.sh`
+```bash
+#!/bin/bash
+# Automated Backup Script for CloudNova Technologies
+SOURCE_DIR="app-data"
+BACKUP_DIR="backups"
+TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+echo "Initiating automated backup..."
+# Create the backup directory if it does not exist
+mkdir -p $BACKUP_DIR
+# Compress the source directory into a tarball (.tar.gz)
+tar -czf $BACKUP_DIR/backup_$TIMESTAMP.tar.gz $SOURCE_DIR
+echo "Backup completed successfully at $TIMESTAMP!"
